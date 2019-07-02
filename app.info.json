@@ -1,11 +1,11 @@
 {
   "app_name": "ruledev",
-  "src_hash": "3cc203d75d20a47ff0ad0fba254d8756f0ac8628",
+  "src_hash": "a5034cd73c5c5e01112c44040e4a8c3dd0be4e82",
   "src_tag": "",
   "src_branch": "master",
   "travis": {
     "event_type": "push",
-    "build_number": "8",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/ruledev-frontend/builds/553330371"
+    "build_number": "9",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/ruledev-frontend/builds/553344435"
   }
 }
